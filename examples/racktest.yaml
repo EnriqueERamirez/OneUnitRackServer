@@ -1,0 +1,17 @@
+screw_type: 'flat_head'
+screw_positions: 
+  - [0, 0]
+  - [1, 0]
+  - [0, 1]
+  - [1, 1]
+entrances:
+  - type: 'usb'
+    location: 'front'
+    position: [0, 0]
+  - type: 'HDMI'
+    location: 'front'
+    position: [0, 0]
+  - type: 'power'
+    location: 'back'
+    position: [0, 0]
+
